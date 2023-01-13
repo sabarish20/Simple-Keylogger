@@ -5,3 +5,5 @@ Keylogger is a simple tool that used to track and record keystrokes that by vict
 
 This Keylogger can give us important and valuable informations like passwords, email-id , financial information, 
 PIN codes and account numbers, credit card numbers, usernames, passwords, and other sensitive data etc.
+
+This is a simple code written in c++ and more updates to come.
